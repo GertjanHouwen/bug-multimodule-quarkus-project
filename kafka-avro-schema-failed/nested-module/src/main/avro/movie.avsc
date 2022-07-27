@@ -1,0 +1,11 @@
+{
+  "namespace": "org.acme.kafka.quarkus",
+  "type": "record",
+  "name": "Movie",
+  "fields": [
+    {
+      "name": "title",
+      "type": "string"
+    }
+  ]
+}
